@@ -1,0 +1,467 @@
+{
+  "project": "AI Powered Mock Interview Platform",
+  "generatedBy": "Cursor agent",
+  "inventory": {
+    "hex": [
+      {
+        "value": "#020617",
+        "files": [
+          "frontend/src/index.css",
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/ProfileCompletionPage.jsx",
+          "frontend/src/pages/OnlineAssessmentPage.jsx"
+        ]
+      },
+      {
+        "value": "#060e20",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx"
+        ]
+      },
+      {
+        "value": "#070b16",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "#070f22",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "#0b0e14",
+        "files": [
+          "frontend/src/pages/InterviewSetupPage.jsx"
+        ]
+      },
+      {
+        "value": "#0b1020",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/OnlineAssessmentPage.jsx"
+        ]
+      },
+      {
+        "value": "#0c1322",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "#0b2a72",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "#143f9b",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "#151b2a",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "#1e40af",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "#22d3ee",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "#6366f1",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "#000",
+        "files": [
+          "frontend/src/assets/vite.svg",
+          "frontend/public/favicon.svg"
+        ]
+      },
+      {
+        "value": "#fff",
+        "files": [
+          "frontend/src/assets/vite.svg",
+          "frontend/public/icons.svg"
+        ]
+      },
+      {
+        "value": "#00D8FF",
+        "files": [
+          "frontend/src/assets/react.svg"
+        ]
+      },
+      {
+        "value": "#08060d",
+        "files": [
+          "frontend/public/icons.svg"
+        ]
+      },
+      {
+        "value": "#863bff",
+        "files": [
+          "frontend/public/favicon.svg"
+        ]
+      },
+      {
+        "value": "#9135ff",
+        "files": [
+          "frontend/src/assets/vite.svg"
+        ]
+      },
+      {
+        "value": "#aa3bff",
+        "files": [
+          "frontend/public/icons.svg"
+        ]
+      }
+    ],
+    "rgba": [
+      {
+        "value": "rgba(0,0,0,0.35)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/ProfileCompletionPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(0,0,0,0.65)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.5)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.55)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.6)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.65)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/OnlineAssessmentPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.76)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.78)",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.82)",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.85)",
+        "files": [
+          "frontend/src/pages/ProfileCompletionPage.jsx",
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx",
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.92)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx",
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(2,6,23,0.95)",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx",
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.5)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.7)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.78)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.85)",
+        "files": [
+          "frontend/src/pages/ProfileCompletionPage.jsx",
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.9)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.92)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(15,23,42,0.94)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/TechQAPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(29,78,216,0.5)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(30,41,59,0.8)",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx",
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(30,41,59,0.84)",
+        "files": [
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(30,41,59,0.88)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(30,64,175,0.5)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.1)",
+        "files": [
+          "frontend/src/pages/InterviewSetupPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.12)",
+        "files": [
+          "frontend/src/pages/ProfileCompletionPage.jsx",
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx",
+          "frontend/src/pages/InterviewSetupPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.16)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.2)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/InterviewSetupPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.25)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/OnlineAssessmentPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.42)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(34,211,238,0.95)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(56,189,248,0.08)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx",
+          "frontend/src/pages/TechQAPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(56,189,248,0.12)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(56,189,248,0.14)",
+        "files": [
+          "frontend/src/pages/OnlineAssessmentPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(59,130,246,0.06)",
+        "files": [
+          "frontend/src/pages/ProfileCompletionPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(59,130,246,0.08)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(59,130,246,0.1)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(59,130,246,0.2)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(59,130,246,0.25)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(67,56,202,0.45)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(99,102,241,0.06)",
+        "files": [
+          "frontend/src/pages/InterviewSetupPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(99,102,241,0.12)",
+        "files": [
+          "frontend/src/pages/OnlineAssessmentPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(129,140,248,0.12)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(129,140,248,0.14)",
+        "files": [
+          "frontend/src/pages/InterviewResultPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(147,51,234,0.16)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(190,24,93,0.4)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(217,70,239,0.35)",
+        "files": [
+          "frontend/src/pages/DashboardPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(255,255,255,0.2)",
+        "files": [
+          "frontend/src/pages/LiveInterviewPage.jsx",
+          "frontend/src/pages/InterviewResultPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(255,255,255,0.25)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx",
+          "frontend/src/pages/LiveInterviewPage.jsx"
+        ]
+      },
+      {
+        "value": "rgba(255,255,255,0.35)",
+        "files": [
+          "frontend/src/pages/AuthPage.jsx"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: #020617;
+}
+
+.card {
+  @apply rounded-2xl border border-slate-800 bg-slate-900/70 p-6 shadow-lg;
+}
+
+.btn-primary {
+  @apply rounded-xl bg-indigo-500 px-4 py-2 font-semibold text-white transition hover:bg-indigo-400;
+}
+
+.input {
+  @apply w-full rounded-xl border border-slate-700 bg-slate-900 px-4 py-2 text-slate-100 outline-none focus:border-indigo-400;
+}
