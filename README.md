@@ -4,36 +4,40 @@ An AI-powered voice interview preparation platform that helps candidates practic
 
 ---
 
-## 🚀 Features
+## Screenshot
+  ![Screenshot](Screenshot/Liveinterview.jpeg)
+  ![Screenshot](Screenshot/MockInterview.jpeg)
 
-### 🤖 AI-Powered Interviewer
+##  Features
+
+###  AI-Powered Interviewer
 - Conducts realistic interview sessions using Gemini AI
 - Supports technical, behavioral, HR, and domain-specific interviews
 - Dynamic follow-up questions based on candidate responses
 
-### 🎙️ Voice-Based Interaction
+###  Voice-Based Interaction
 - Speech-to-Text (STT) for candidate responses
 - Text-to-Speech (TTS) for AI interviewer questions
 - Real-time conversational experience
 
-### 📊 Performance Analysis
+### Performance Analysis
 - AI-generated feedback on answers
 - Communication and confidence assessment
 - Technical knowledge evaluation
 - Strengths and weaknesses identification
 
-### 📈 Interview Reports
+###  Interview Reports
 - Detailed performance reports
 - Answer quality scoring
 - Improvement recommendations
 - Historical interview tracking
 
-### 👤 User Management
+###  User Management
 - User authentication and authorization
 - Profile management
 - Interview history dashboard
 
-### 💼 Multiple Interview Types
+###  Multiple Interview Types
 - Software Engineering
 - Frontend Developer
 - Backend Developer
@@ -44,7 +48,7 @@ An AI-powered voice interview preparation platform that helps candidates practic
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Frontend
 - React.js
@@ -272,6 +276,3 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
-
-Developed with ❤️ using MERN Stack and Google Gemini AI.
